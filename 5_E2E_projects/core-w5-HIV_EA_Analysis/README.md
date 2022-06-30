@@ -23,7 +23,11 @@
     ###Pandas
     ###Numpy
     ###Matplotlib
-    
+ 
+ # How to set code in readme
+ ```python
+ print('Hello word')
+ ```
 
  ## Streamlit dashboard app screenshot
         ## our streamlit app enables the user to select data points they want to compare from 
