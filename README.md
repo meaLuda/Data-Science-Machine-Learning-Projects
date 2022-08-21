@@ -19,13 +19,13 @@ This was during and aftrer my course work Moringa School and also personal proje
 The work(notebooks) and project included:
 ```
 
-1. [Coding with python and R](../0_coding_py_R)
-2. [Statistics](../1_Statistics)
-3. [SQL](../2_SQL)
-4. [Machine Learning](../3_Machine_Learning)
-5. [Deep Learning](../4_Deep_Learning)
-6. [End-to-End-Projects](../5_E2E_projects)
-7. [Data Vizualization](../DataViz_Storytelling)
+1. [Coding with python and R](0_coding_py_R)
+2. [Statistics](1_Statistics)
+3. [SQL](2_SQL)
+4. [Machine Learning](3_Machine_Learning)
+5. [Deep Learning](4_Deep_Learning)
+6. [End-to-End-Projects](5_E2E_projects)
+7. [Data Vizualization](DataViz_Storytelling)
 
 <hr>
 
@@ -34,7 +34,9 @@ ps.
 I have also collect cool codes in a code snippet notebook, 
 check it out and email me what you think
 ```
-[cool code snippets](../code_snippets.ipynb)
+
+[cool code snippets](code_snippets.ipynb)
+
 ### Follow me on linked
 
 [https://www.linkedin.com/in/eliud-munyala/]
