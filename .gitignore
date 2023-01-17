@@ -1,6 +1,7 @@
 /data
-.ipynb_checkpoints
+git.ipynb_checkpoints
 
 *.csv
 *.xlsx
 *.json
+t.py
