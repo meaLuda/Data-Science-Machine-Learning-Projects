@@ -48,10 +48,6 @@ check it out and email me what you think
 
 [https://www.linkedin.com/in/eliud-munyala/]
 
-## Check out my website
-
-[http://mypfproj.herokuapp.com/]
-
 ## My email
 
 [meamunyala@gmail.com]
