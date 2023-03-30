@@ -5,3 +5,5 @@
 *.xlsx
 *.json
 t.py
+
+/eLearningRecommender
