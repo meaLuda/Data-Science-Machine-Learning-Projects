@@ -3,7 +3,7 @@
 ## Data Science 👨‍🔬 | Statistics 📊 | Machine Learning 🤖
 
 
-### Follow me on linked
+### Follow me on linkedIn
 
 [https://www.linkedin.com/in/eliud-munyala/]
 
